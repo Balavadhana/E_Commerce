@@ -1,0 +1,36 @@
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\bin\Debug\net8.0\appsettings.json
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\bin\Debug\net8.0\E_commerce Service.staticwebassets.endpoints.json
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\bin\Debug\net8.0\E_commerce Service.exe
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\bin\Debug\net8.0\E_commerce Service.deps.json
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\bin\Debug\net8.0\E_commerce Service.runtimeconfig.json
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\bin\Debug\net8.0\E_commerce Service.dll
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\bin\Debug\net8.0\E_commerce Service.pdb
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\obj\Debug\net8.0\E_commerce Service.csproj.AssemblyReference.cache
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\obj\Debug\net8.0\E_commerce Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\obj\Debug\net8.0\E_commerce Service.AssemblyInfoInputs.cache
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\obj\Debug\net8.0\E_commerce Service.AssemblyInfo.cs
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\obj\Debug\net8.0\E_commerce Service.csproj.CoreCompileInputs.cache
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\obj\Debug\net8.0\E_commerce Service.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\obj\Debug\net8.0\E_commerce Service.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\obj\Debug\net8.0\scopedcss\bundle\E_commerce Service.styles.css
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\obj\Debug\net8.0\staticwebassets\msbuild.E_commerce Service.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\obj\Debug\net8.0\staticwebassets\msbuild.E_commerce Service.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\obj\Debug\net8.0\staticwebassets\msbuild.build.E_commerce Service.props
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.E_commerce Service.props
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.E_commerce Service.props
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\obj\Debug\net8.0\E_commer.C9BF84F4.Up2Date
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\obj\Debug\net8.0\E_commerce Service.dll
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\obj\Debug\net8.0\refint\E_commerce Service.dll
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\obj\Debug\net8.0\E_commerce Service.pdb
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\obj\Debug\net8.0\E_commerce Service.genruntimeconfig.cache
+C:\Users\A3117997\source\repos\E_commerce Service\E_commerce Service\obj\Debug\net8.0\ref\E_commerce Service.dll
